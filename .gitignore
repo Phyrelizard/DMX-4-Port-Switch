@@ -1,0 +1,16 @@
+# Arduino IDE
+*.o
+*.a
+*.so
+.DS_Store
+build/
+dist/
+*.elf
+*.hex
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
